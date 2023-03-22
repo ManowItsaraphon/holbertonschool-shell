@@ -1,2 +1,2 @@
-#!/bin/bash
-grep -C3 iacta
+#!/bin/bas
+head -n3 | tail -n3 iacta
